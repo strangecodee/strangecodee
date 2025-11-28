@@ -1,145 +1,154 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2E96FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Anurag+Maurya;Cloud+%26+DevOps+Engineer;Infrastructure+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&height=35&pause=1500&lines=Automating+today+for+a+smarter,+faster,+cloud-driven+tomorrow.;DevOps+%7C+Cloud+%7C+Automation+%7C+CI%2FCD" />
+
+<!-- Glassmorphic DevOps Banner -->
+<div align="left">
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1d283a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glass">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 1
+                0 0 0 0 1
+                0 0 0 0 1
+                0 0 0 0.3 0"/>
+      <feBlend in="SourceGraphic" in2="glow" mode="normal"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg-gradient)" rx="32"/>
+
+  <g filter="url(#glass)">
+    <rect x="60" y="40" width="780" height="140" rx="32" fill="#ffffff11" stroke="#ffffff33" />
+    <text x="120" y="95" font-size="30" fill="#e5e7eb" font-weight="600">Anurag Maurya</text>
+    <text x="120" y="130" font-size="18" fill="#cbd5f5">DevOps & Cloud Engineer · AWS · Docker · Kubernetes · Jenkins · Terraform</text>
+    <text x="120" y="158" font-size="14" fill="#9ca3af">Automating today for a smarter, faster, cloud-driven tomorrow.</text>
+  </g>
+</svg>
 </div>
 
-<h3 align="center">🚀 Cloud & DevOps Engineer | Infrastructure Specialist | Automation Expert</h3>
+<h3 align="left">
+ Hey 
+  <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" 
+       width="30" style="vertical-align: middle;"/>
+       What's Up? 
+</h3>
 
-<div align="center">
-  
-  🏢 Bareilly, U.P.
-  
-  📧 annu.exe@gmail.com
-  
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annuragmaurya)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/strangecodee)
-</div>
+<p align="left">
+Glad to see you here!<br><br>
+I love exploring <strong>DevOps, Cloud, and Automation</strong> technologies.<br>
+In the ever-evolving world of infrastructure engineering, I believe in <strong>continuous learning</strong>, staying updated with tools like 
+<strong>Docker, Kubernetes, IaC (Terraform, Ansible), CI/CD (Jenkins, GitHub Actions), AWS</strong>, and Cloud-native architectures.<br><br>
+I specialize in building <strong>automated, scalable, and production-ready infrastructures</strong> using AWS, Jenkins, Docker, Terraform, and Kubernetes.<br><br>
+Always open for <strong>collaboration, DevOps projects, and cloud architecture discussions</strong>.<br>
+Let’s build, automate, and innovate together!
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=strangecodee" alt="Profile Visitors">
+</p>
 
-<h2 align="center">🎯 Objective</h2>
+### Tech Stack & Tools
 
-<div align="center" style="transform: perspective(1000px) rotateX(10deg);">
-  <p>Cloud & DevOps enthusiast specializing in AWS infrastructure, automation, and CI/CD. Passionate about building scalable cloud solutions and implementing DevOps best practices.</p>
-</div>
+#### Cloud & DevOps
 
----
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,gitlab,ansible,terraform,nginx,yaml,Vagrant,apache,azuredevops" />
 
-<h2 align="center">☁️ Cloud & DevOps Arsenal</h2>
+#### Programming & Frameworks
 
-### AWS Services Expertise 🌟
-```yaml
-Compute:
-  - EC2 (Elastic Compute Cloud)
-  - ECS (Elastic Container Service)
-  - Lambda (Serverless Computing)
-  
-Storage:
-  - S3 (Simple Storage Service)
-  - EBS (Elastic Block Store)
-  - EFS (Elastic File System)
+<img src="https://skillicons.dev/icons?i=java,py,bash,js,ts,html,css,tailwind,nodejs,react,spring,express,flask,django,maven,gradle,npm,pnpm" />
 
-Networking:
-  - VPC (Virtual Private Cloud)
-  - Route 53 (DNS Service)
-  - CloudFront (CDN)
+#### Databases & Tools
 
-Security:
-  - IAM (Identity & Access Management)
-  - WAF (Web Application Firewall)
-  - KMS (Key Management Service)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase,postman,vscode,idea,Jira" />
 
-Monitoring:
-  - CloudWatch
-  - X-Ray
-  - AWS Config
-```
+#### Version Control & OS
 
-### DevOps Tools & Technologies 🛠️
+<img src="https://skillicons.dev/icons?i=git,github,windows,linux" />
 
-<div align="center">
-  
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-</div>
+#### AI & ML
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai,ollama" />
 
-<h2 align="center">🎓 Education</h2>
+### Additional Tools & Technologies
 
-<div align="center" style="transform: perspective(1000px) rotateX(5deg);">
-  
-  **MCA** - Invertis University, Bareilly (2023-2025)
-  
-  **BCA** - M.J.P. Rohilkhand University, Bareilly (2023)
-  
-</div>
+<!-- Custom badges for unavailable skillicons -->
+<p>
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortify-00539A?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL/TLS-0033A0?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall-CC0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-FF4F00?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
 
----
+### Certifications
 
-<h2 align="center">💼 Professional Experience</h2>
+<p align="left">
 
-### AWS Cloud Intern | RannLab Technologies Pvt. Ltd.
-```yaml
-Duration: May 2024 – Aug 2024
-Achievements:
-  - Architected and managed multi-tier AWS infrastructure
-  - Implemented automated monitoring and alerting systems
-  - Designed and deployed CI/CD pipelines using Jenkins
-  - Automated infrastructure deployment using Ansible
-```
+  <!-- AWS Solutions Architect Associate -->
+  <a href="https://www.credly.com/badges/4b6632fd-f7d1-4125-a66c-271d3f6149e2" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" 
+         alt="AWS Solutions Architect Associate" width="120" />
+  </a>
 
----
+  <!-- Google Cloud Associate Engineer -->
+  <a href="https://www.credly.com/badges/31362949-559d-4134-bea9-a2466dfeac16" target="_blank">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
+         alt="Google Cloud Associate Cloud Engineer" width="120" />
+  </a>
 
-<h2 align="center">🏆 Certifications</h2>
+</p>
 
-<div align="center" style="transform: perspective(1000px) rotateX(5deg);">
-  
-  ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws)
-  
-  ![Google Cloud Engineer](https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-4285F4?style=for-the-badge&logo=google-cloud)
-  
-</div>
+<h4><details>
+<summary><strong>Click to view GitHub Statistics</strong></summary>
+<br>
 
----
+<!-- Profile Stats -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strangecodee&show_icons=true&theme=radical)](https://github.com/strangecodee)
 
-### TastyGo - Cloud-Native Food Ordering Platform
-- 🔹 Containerized microservices architecture on AWS ECS
-- 🔹 Implemented auto-scaling and load balancing
-- 🔹 Automated CI/CD with Jenkins and Docker
+<!-- Languages Used -->
 
-### E-School Infrastructure (GCP)
-- 🔹 Infrastructure as Code using Terraform
-- 🔹 SSL-secured with automated certificate management
-- 🔹 Custom DNS configuration and routing
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&layout=compact&theme=radical)](https://github.com/strangecodee?tab=repositories)
 
-### Automatic Load Balancing System
-- 🔹 AWS ELB with auto-scaling groups
-- 🔹 CloudWatch monitoring and alerts
-- 🔹 Route 53 for DNS management
+</details></h4>
 
----
+### Commit Heatmap
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=strangecodee&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=strangecodee&theme=react&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strangecodee&theme=github-compact&area=true&hide_border=true" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=strangecodee.strangecodee" alt="visitors">
-</div>
+<h4><details>
+<summary><strong>Contibutions</strong></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangecodee/strangecodee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strangecodee/strangecodee/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/strangecodee/strangecodee/output/pacman-contribution-graph.svg">
+</picture>
+</details></h4>
+
+### Let's Connect
+
+<p align="left">
+
+  <a href="mailto:annu.exe@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/annuragmaurya" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/strangecodee" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+
+</p>
+<p align="left" style="font-style: italic; font-size: 16px;">
+  If you find my work useful, please consider starring repositories and following.
+</p>
