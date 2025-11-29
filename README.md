@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=900&height=35&pause=1500&lines=Automating+today+for+a+smarter,+faster,+cloud-driven+tomorrow.;DevOps+%7C+Cloud+%7C+Automation+%7C+CI%2FCD" />
 
-<!-- Glassmorphic DevOps Banner -->
+
 <div align="left">
 <svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -34,7 +34,7 @@
 <h3 align="left">
  Hey 
   <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" 
-       width="30" style="vertical-align: middle;"/>
+       width="20" style="vertical-align: middle;"/>
        What's Up? 
 </h3>
 
@@ -118,12 +118,12 @@ Let’s build, automate, and innovate together!
 
 </details></h4>
 
-### Commit Heatmap
+### Commit Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=strangecodee&theme=github-compact&area=true&hide_border=true" />
 
 <h4><details>
-<summary><strong>Contibutions</strong></summary>
+<summary><strong>Contributions</strong></summary>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangecodee/strangecodee/output/pacman-contribution-graph-dark.svg">
