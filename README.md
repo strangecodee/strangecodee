@@ -84,19 +84,31 @@ Let’s build, automate, and innovate together!
 
 </p>
 
-<h4><details>
-<summary><strong>Click to view GitHub Statistics</strong></summary>
-<br>
+<h4>
+<details>
+<summary><strong>GitHub Stats</strong></summary>
+ <br>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=strangecodee&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=strangecodee&show_icons=true&theme=default&hide_border=true&cache_seconds=86400">
+    <img alt="GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=strangecodee&show_icons=true&hide_border=true&cache_seconds=86400" />
+  </picture>
+</p>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&layout=compact&theme=radical&hide_border=true&cache_seconds=86400">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&layout=compact&theme=default&hide_border=true&cache_seconds=86400">
+    <img alt="Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&layout=compact&hide_border=true&cache_seconds=86400" />
+  </picture>
+</p></details></h4>
 
-<!-- Profile Stats -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strangecodee&show_icons=true&theme=radical)](https://github.com/strangecodee)
-
-<!-- Languages Used -->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strangecodee&layout=compact&theme=radical)](https://github.com/strangecodee?tab=repositories)
-
-</details></h4>
 
 ### Commit Graph
 
