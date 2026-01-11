@@ -23,8 +23,14 @@ Let’s build, automate, and innovate together!
 </p>
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=strangecodee" alt="Profile Visitors">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+    <img src="https://cdn.simpleicons.org/github" width="20"/>
+  </picture>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=strangecodee&style=flat&color=blueviolet" />
 </p>
+
 
 ### Tech Stack & Tools
 
